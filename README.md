@@ -1,6 +1,6 @@
 # Customer Segmentation & Retention Analysis
 
-An end-to-end Data Analytics project that analyzes customer purchasing behavior using an e-commerce dataset. The project performs customer segmentation using **RFM Analysis** and **K-Means Clustering**, analyzes customer retention and churn, and presents business insights through SQL, Excel, and an interactive Power BI dashboard.
+An end-to-end Data Analytics project that analyzes customer purchasing behavior using an e-commerce dataset. The project performs customer segmentation using **RFM Analysis** and **K-Means Clustering**, analyzes customer retention and churn, and presents business insights through SQL, and an interactive Power BI dashboard.
 
 ---
 
@@ -17,46 +17,6 @@ An end-to-end Data Analytics project that analyzes customer purchasing behavior 
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Python**
-  - Pandas
-  - NumPy
-  - Matplotlib
-  - Scikit-learn
-- **SQL**
-- **Microsoft Excel**
-- **Power BI**
-
----
-
-## 📂 Project Structure
-
-```text
-Customer-Segmentation-Retention-Analysis/
-│
-├── ecommerce_transactions.csv
-├── Customer_Segmentation_Retention_Analysis.ipynb
-│
-├── sql/
-│   ├── schema.sql
-│   ├── load_data.sql
-│   └── business_queries.sql
-│
-├── excel/
-│   └── Customer_Analysis.xlsx
-│
-├── powerbi/
-│   └── Dashboard.png
-│
-├── reports/
-│   ├── business_insights.md
-│   └── recommendations.md
-│
-└── README.md
-```
-
----
 
 ## 📊 Project Workflow
 
@@ -108,20 +68,6 @@ The Power BI dashboard includes:
 
 ---
 
-## 🚀 Getting Started
-
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/Customer-Segmentation-Retention-Analysis.git
-```
-
-### Install dependencies
-
-```bash
-pip install pandas numpy matplotlib scikit-learn
-```
-
 ### Run the project
 
 1. Open `Customer_Segmentation_Retention_Analysis.ipynb`
@@ -138,17 +84,7 @@ pip install pandas numpy matplotlib scikit-learn
 - **Dataset:** E-commerce Transactions
 - **Records:** ~34,000+
 - **Customers:** 3,000
-
-The dataset contains:
-
-- Customer ID
-- Order Date
-- Product Category
-- Sales
-- Quantity
-- Profit
-- Region
-
+ 
 ---
 
 ## 🎯 Skills Demonstrated
@@ -168,24 +104,11 @@ The dataset contains:
 
 ---
 
-## 🔮 Future Improvements
-
-- Customer Lifetime Value (CLV) Prediction
-- Machine Learning-based Churn Prediction
-- Real-Time Dashboard Integration
-- Dashboard Deployment using Power BI Service
-- Automated Data Refresh
-
----
-
 ## 👨‍💻 Author
 
 **Vaibhav Soni**
 
 Electrical Engineering Undergraduate, Delhi Technological University (DTU)
 
-**Skills:** SQL • Python • Power BI • Excel • Machine Learning • Data Analytics
+**Skills:** SQL • Python • Power BI • Machine Learning • Data Analytics
 
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
