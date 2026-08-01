@@ -110,5 +110,5 @@ The Power BI dashboard includes:
 
 Electrical Engineering Undergraduate, Delhi Technological University (DTU)
 
-**Skills:** SQL • Python • Power BI • Machine Learning • Data Analytics
+**Skills:** SQL • Python • Machine Learning • Data Analytics
 
